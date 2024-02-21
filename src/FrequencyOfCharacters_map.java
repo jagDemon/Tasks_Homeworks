@@ -26,7 +26,7 @@ public class FrequencyOfCharacters_map {
 
 
     public static void main(String[] args) {
-        String str = "responsible";
+        String str = "ahmet tarik";
         System.out.println(frequency(str));
     }
 }
